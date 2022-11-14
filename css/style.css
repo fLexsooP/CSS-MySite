@@ -1,3 +1,24 @@
 body {
-  background-color: aqua;
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+}
+
+.top-container {
+  background-color: #d6e4e5;
+  height: 200px;
+  width: 200px;
+}
+
+.middle-container {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
+.bottom-container {
+  background-color: yellow;
+  height: 200px;
+  width: 200px;
 }
