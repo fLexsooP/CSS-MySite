@@ -27,6 +27,13 @@ h3 {
 
 a {
   color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
 }
 
 hr {
@@ -131,4 +138,9 @@ hr {
   background-image: -o-linear-gradient(top, #9eedf0, #7dc4c2);
   background-image: linear-gradient(to bottom, #9eedf0, #7dc4c2);
   text-decoration: none;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 12px;
 }
